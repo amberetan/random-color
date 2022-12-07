@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+main {
+    text-align: center;
+    margin: 50px
+}
+
+
+.colorComponent{
+    width: 100px;
+    height: 100px;
+}
+
+.colorGrid {
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    margin-top: 20px
+}
